@@ -1,0 +1,154 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.back
+{
+  background-image: url(img/stock-vector-cozy-interior-of-a-modern-elegant-living-room-with-an-armchair-a-tv-table-a-fireplace-and-702357970.jpg);
+  height: 900px;
+  background-size: cover;
+
+
+}
+body
+{
+  font-size: 23px;
+  background-color: rgb(155, 174, 182);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400
+  
+}
+.our
+{
+  
+    overflow: auto;
+    text-align: center;
+    
+    font-family: sans-serif;
+    width: 90%;
+    margin: 60px auto;
+    
+   
+}
+.our h1
+{
+    color: rgb(105, 6, 151);
+    text-shadow: 3px 5px 4px rgb(204, 206, 203);
+
+    
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin: 60px;
+}
+.chairs
+{
+    width: 33.3333%;
+    float: left;
+}
+.chairs img
+{
+    width: 90%;
+}
+.border
+{
+    border-top: dashed 1px black;
+}
+.House
+{
+    
+    overflow: auto;
+    width: 90%;
+    margin: auto;
+}
+.home
+{
+    
+    width: 50%;
+    float: left;
+    margin-top: 10%;
+    
+}
+.rom
+{
+    
+    width: 50%;
+    float: left;
+    margin-top: 10%;
+}
+.hom img
+{
+    width: 100%;
+}
+.sette
+{
+    overflow: auto;
+    width: 90%;
+    margin:auto;
+}
+.couch
+{
+    width: 50%;
+    margin-top: 10%;
+    float: right;
+}
+.couch img
+{
+    width: 100%;
+}
+.theme
+{
+    width: 50%;
+    float: right;
+    margin-top: 10%;
+    
+}
+.imge
+{
+    
+    overflow: auto;
+    margin-top: 10%;
+   
+    
+}
+.imge h1
+{
+    color: rgb(105, 6, 151);
+    text-shadow: 3px 5px 4px rgb(58, 204, 0);
+
+    text-decoration: underline;
+    text-transform: uppercase;
+    
+    text-align: center;
+}
+.photo
+{
+   box-sizing: border-box;
+    width: 25%;
+    float: left;
+    padding: 20px;
+   
+    
+}
+.imge img
+{
+    width: 100%;
+}
+.finsh
+{
+
+    
+    padding: 50px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(27, 27, 27);
+    
+}
+.finsh ul li
+{
+    text-shadow: 3px 5px 4px whitesmoke;
+    list-style-type: none;
+}
+
